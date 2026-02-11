@@ -13,7 +13,7 @@
       "key": "4a193ebe299bcd9a10f8a0d70126b4865f045bf274aee320f48666d672b058fd",
       "expiry": "2026-03-15T00:00:00",
       "status": "active",
-      "device_limit": 1,
+      "device_limit": 1000,
       "hwid_list": []
     },
     {
