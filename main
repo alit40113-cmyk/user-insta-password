@@ -4,19 +4,25 @@
       "name": "Atheer",
       "key": "8d61e185a95398438e4433984feb90ebe774b1a5b32dcff75479037831462a6f",
       "expiry": "2026-05-01T00:00:00",
-      "status": "active"
+      "status": "active",
+      "device_limit": 2,
+      "hwid_list": ["هنا_تضع_بصمة_الجهاز_الأول", "هنا_تضع_بصمة_الجهاز_الثاني"]
     },
     {
       "name": "User_2",
       "key": "4a193ebe299bcd9a10f8a0d70126b4865f045bf274aee320f48666d672b058fd",
       "expiry": "2026-03-15T00:00:00",
-      "status": "active"
-    },
-    {
-      "name": "User_3",
-      "key": "1ae72c4acf0a4f5ee0f3c204742b0933564c51b3ce69ffef1d8c5aa98bdfd7dd",
-      "expiry": "2026-02-20T00:00:00",
-      "status": "expired"
+      "status": "active",
+      "device_limit": 1,
+      "hwid_list": []
     }
   ]
+    {
+      "name": "شو",
+      "key": "4aaa3ebe300acd9a10f8a0d70126b4865f045bf274aee320f48666d672b058fd",
+      "expiry": "2026-03-15T00:00:00",
+      "status": "active",
+      "device_limit": 1,
+      "hwid_list": []
+    }
 }
