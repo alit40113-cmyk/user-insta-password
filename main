@@ -3,7 +3,7 @@
     {
       "name": "Atheer",
       "key": "8d61e185a95398438e4433984feb90ebe774b1a5b32dcff75479037831462a6f",
-      "expiry": "2026-05-01T00:00:00",
+      "expiry": "2026-01-01T00:00:00",
       "status": "active",
       "device_limit": 2000,
       "hwid_list": []
