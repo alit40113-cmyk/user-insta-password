@@ -6,7 +6,7 @@
       "expiry": "2026-05-01T00:00:00",
       "status": "active",
       "device_limit": 2,
-      "hwid_list": ["هنا_تضع_بصمة_الجهاز_الأول", "هنا_تضع_بصمة_الجهاز_الثاني"]
+      "hwid_list": []
     },
     {
       "name": "User_2",
@@ -15,8 +15,7 @@
       "status": "active",
       "device_limit": 1,
       "hwid_list": []
-    }
-  ]
+    },
     {
       "name": "شو",
       "key": "4aaa3ebe300acd9a10f8a0d70126b4865f045bf274aee320f48666d672b058fd",
@@ -25,4 +24,5 @@
       "device_limit": 1,
       "hwid_list": []
     }
+  ]
 }
